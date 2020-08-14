@@ -1,0 +1,36 @@
+Class,Name,Median (ng/L),Standard deviation (ng/L),Kurtosis,Asymmetry coefficient
+Acidics,"2,4-D",5.1,103.4,15.2,3.8
+,Bentazone,34958.4,56966.3,-0.1,1.0
+,MCPA,732.1,2451.3,2.1,1.7
+Anilides,Diflufenican,1.0,6.2,0.3,1.3
+,Propanil,879.3,16336.9,5.9,2.4
+Carbamates,Methiocarb,0.7,1.1,-0.3,0.8
+,Molinate,15.3,15.7,-1.0,0.5
+,Triallate,239.8,243.7,2.9,1.5
+Chloroacetanilides,Alachlor,0.0,0.5,6.1,2.7
+,Metolachlor,36.2,17.5,-0.2,0.7
+Dinitroaniline,Pendimethalin,1.0,0.5,-2.0,-0.5
+Neonicotinoids,Acetamiprid,60.5,956.5,12.8,3.4
+,Imidacloprid,50.2,211.4,3.5,2.1
+,Thiacloprid,0.0,0.8,2.5,1.9
+Organochlorines,"4,4'-DDD",0.0,0.3,18.0,4.2
+,Dicofol,1.8,1.9,-2.3,0.0
+,Oxadiazon,15.3,16.8,-1.3,0.4
+,Triadimefon,1.0,1.4,1.6,1.1
+Organophosphates,Azinphos ethyl,0.0,1.9,3.1,2.1
+,Chlorfenviphos,1.4,2.0,0.1,0.9
+,Chlorpyrifos,15.3,7.9,-0.9,-0.1
+,Diazinon,1.9,1.4,-0.8,0.3
+,Malaoxon,0.0,0.2,7.9,2.8
+Organothiophosphates,Fenthion oxon,0.0,0.8,2.4,1.8
+,Fenthion oxon sulfoxide,0.0,0.3,14.4,3.7
+,Fenthion sulfoxide,0.0,1.1,11.2,3.3
+Phenylureas,Chlortoluron,0.0,3.6,9.9,3.2
+,Diuron,6.7,4.6,-1.5,-0.2
+,Isoproturon,0.0,3.0,18.0,4.2
+,Linuron,0.0,3.2,13.4,3.6
+Triazines,Atrazine,0.0,0.6,15.4,3.9
+,Cybutrine,24.9,15.2,-1.9,0.2
+,Simazine,1.5,2.1,0.8,1.3
+,Terbuthylazine,23.3,15.4,-1.4,-0.4
+,Terbutryn,2.6,1.6,0.7,0.4
